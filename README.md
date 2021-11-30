@@ -1,6 +1,6 @@
 ![Crypto](https://ripplecoinnews.com/wp-content/uploads/2021/08/cryptocurrency-22-1200x900.jpg)
 # crypto_clustering
-Cluster Cryptocurrencies by their performance in different time periods using original and PCA data pulled from a csv file. 
+Cluster Cryptocurrencies by their performance in different time periods using data pulled from a csv file. Data analysis with Scikit-learn.
 ---
 ## Technologies
 This analysis leverages python 3.7 with the following packages and libraries:
