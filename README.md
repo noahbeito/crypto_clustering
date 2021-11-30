@@ -1,4 +1,4 @@
-![Crypto](https://blockchainstock.azureedge.net/features/7B13862B8D05A4CC0C48D1875635B6A884C93AA9A49282FA4793E28ABACB729A.jpg)
+![Crypto](https://i1.wp.com/yoursystem.in/wp-content/uploads/2021/06/crypto.png?w=661&ssl=1)
 # crypto_clustering
 Cluster Cryptocurrencies by their performance in different time periods using original data from a csv file as well as PCA data. 
 ---
