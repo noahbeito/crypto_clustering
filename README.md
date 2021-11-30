@@ -1,4 +1,4 @@
-![Crypto](https://i1.wp.com/yoursystem.in/wp-content/uploads/2021/06/crypto.png?w=661&ssl=1)
+![Crypto](https://ripplecoinnews.com/wp-content/uploads/2021/08/cryptocurrency-22-1200x900.jpg)
 # crypto_clustering
 Cluster Cryptocurrencies by their performance in different time periods using original data from a csv file as well as PCA data. 
 ---
